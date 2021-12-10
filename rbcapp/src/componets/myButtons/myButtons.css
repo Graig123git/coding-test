@@ -1,0 +1,22 @@
+.btn-container {
+	justify-content: flex;
+	padding: 10px;
+}
+
+.Active {
+	background-color: purple;
+	color: white;
+	font-size: 20px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	margin: 10px 5px;
+	cursor: pointer;
+}
+.InActive {
+	color: white;
+	font-size: 20px;
+	padding: 10px 30px;
+	border-radius: 5px;
+	margin: 10px 5px;
+	cursor: pointer;
+}
